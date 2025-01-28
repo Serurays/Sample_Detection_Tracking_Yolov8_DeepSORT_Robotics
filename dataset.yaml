@@ -1,0 +1,6 @@
+train: data_yolo\images\train
+val: data_yolo\images\val
+names:
+  0: red
+  1: blue
+  2: yellow
